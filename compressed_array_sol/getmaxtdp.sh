@@ -1,1 +1,0 @@
-find ./temptdpworingdir/ -type f -name "solution*tdp" -exec head -n 1 {} \; | awk '{if(max==""){max=+$1}; if(+$1>max) {max=+$1}} END {print max}'
