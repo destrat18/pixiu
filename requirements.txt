@@ -1,0 +1,16 @@
+pandas
+matplotlib
+tqdm
+pandarallel
+numpy
+networkx
+pydot
+graphviz
+blockfrost-python
+beautifulsoup4
+fake-useragent
+scipy==1.11.4
+flask
+sqlalchemy
+psycopg2-binary
+pycardano

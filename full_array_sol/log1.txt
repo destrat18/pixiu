@@ -1,0 +1,212 @@
+problem_path_to_kgr skipped: temptdpworingdir/problem_9559582.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9559638.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9559641.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9559675.kgr
+Solved 100 problems
+Solved 200 problems
+Solved 300 problems
+Solved 400 problems
+Solved 500 problems
+Solved 600 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9560799.kgr
+Solved 700 problems
+Solved 800 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9561198.kgr
+Solved 900 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9561714.kgr
+Solved 1000 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9562000.kgr
+Solved 1100 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9563240.kgr
+Solved 1200 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9563475.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9563476.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9563514.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9563515.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9563560.kgr
+Solved 1300 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9563670.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9563794.kgr
+Solved 1400 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9563850.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9563885.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9563930.kgr
+Solved 1500 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9564041.kgr
+Solved 1600 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9564279.kgr
+Solved 1700 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9564478.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9564500.kgr
+Solved 1800 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9564629.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9564728.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9564735.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9564741.kgr
+Solved 1900 problems
+Solved 2000 problems
+Solved 2100 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9565296.kgr
+Solved 2200 problems
+Solved 2300 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9565673.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9565691.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9565692.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9565712.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9565713.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9565721.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9565722.kgr
+Solved 2400 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9565734.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9565735.kgr
+Solved 2500 problems
+Solved 2600 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9566174.kgr
+Solved 2700 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9566384.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9566406.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9566465.kgr
+Solved 2800 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9566659.kgr
+Solved 2900 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9566844.kgr
+Solved 3000 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9566974.kgr
+Solved 3100 problems
+Solved 3200 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9567262.kgr
+Solved 3300 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9567461.kgr
+Solved 3400 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9567794.kgr
+Solved 3500 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9567867.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9567995.kgr
+Solved 3600 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568199.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568246.kgr
+Solved 3700 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568421.kgr
+Solved 3800 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568489.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568642.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568653.kgr
+Solved 3900 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568825.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568867.kgr
+Solved 4000 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9568890.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9568957.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9569018.kgr
+Solved 4100 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9569178.kgr
+Solved 4200 problems
+Solved 4300 problems
+Solved 4400 problems
+Solved 4500 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9569822.kgr
+Solved 4600 problems
+Solved 4700 problems
+Solved 4800 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9570500.kgr
+Solved 4900 problems
+Solved 5000 problems
+Solved 5100 problems
+Solved 5200 problems
+Solved 5300 problems
+Solved 5400 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9571575.kgr
+Solved 5500 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9571695.kgr
+Solved 5600 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9572012.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9572046.kgr
+Solved 5700 problems
+Solved 5800 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9572455.kgr
+Solved 5900 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9572486.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9572500.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9572663.kgr
+Solved 6000 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9572702.kgr
+Solved 6100 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9573035.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9573057.kgr
+Solved 6200 problems
+Solved 6300 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9573521.kgr
+Solved 6400 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9573686.kgr
+Solved 6500 problems
+Solved 6600 problems
+Solved 6700 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9574256.kgr
+Solved 6800 problems
+Solved 6900 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9574546.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9574582.kgr
+Solved 7000 problems
+Solved 7100 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9574929.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9574993.kgr
+Solved 7200 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9575174.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9575181.kgr
+Solved 7300 problems
+Solved 7400 problems
+Solved 7500 problems
+Solved 7600 problems
+Solved 7700 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9576053.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9576222.kgr
+Solved 7800 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9576285.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9576421.kgr
+Solved 7900 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9576651.kgr
+Solved 8000 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9576857.kgr
+Solved 8100 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9576941.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9576943.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9576945.kgr
+Solved 8200 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9577273.kgr
+Solved 8300 problems
+Solved 8400 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9577596.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9577627.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9577638.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9577654.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9577689.kgr
+Solved 8500 problems
+Solved 8600 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9578116.kgr
+Solved 8700 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9578228.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9578233.kgr
+Solved 8800 problems
+Solved 8900 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9578591.kgr
+Solved 9000 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9578903.kgr
+Solved 9100 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9579054.kgr
+Solved 9200 problems
+Solved 9300 problems
+Solved 9400 problems
+Solved 9500 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9579800.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9579905.kgr
+Solved 9600 problems
+Solved 9700 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9580224.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9580262.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9580302.kgr
+Solved 9800 problems
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9580363.kgr
+solver failure for problem_path_to_kgr: temptdpworingdir/problem_9580386.kgr
+problem_path_to_kgr skipped: temptdpworingdir/problem_9580481.kgr
+Solved 9900 problems
+problem_path_to_kgr skipped: temptdpworingdir/problem_9580521.kgr
